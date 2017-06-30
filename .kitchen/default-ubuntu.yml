@@ -1,6 +1,6 @@
 ---
 username: ubuntu
-server_id: i-02f23d7945db1ebe4
-hostname: ec2-54-175-13-210.compute-1.amazonaws.com
-last_action: verify
+server_id: i-0548805c010536eb2
+hostname: ec2-34-230-77-109.compute-1.amazonaws.com
+last_action: converge
 last_error: 
